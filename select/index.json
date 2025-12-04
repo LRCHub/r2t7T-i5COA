@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Yu-Ke",
+  "base_artist": "LiSA",
+  "createdAt": "2025-12-04T17:43:48.710203Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Yu-Ke",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/01_Yu-Ke_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Yu-Ke",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/02_Yu-Ke_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Yu-Ke",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/03_Yu-Ke_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "往け - Yu-Ke",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/04_往け_-_Yu-Ke_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Yu‐Ke",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/05_Yu‐Ke_LiSA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "往け",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/pl_01_往け_LiSA.txt"
+    }
+  ]
+}
